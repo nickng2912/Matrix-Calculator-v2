@@ -11,3 +11,6 @@ SOME FUTURE IDEAS:
 - Determinant of a Larger Matrix Size 
 - 3D Arrays and Matrix 
 - Applied The Use of Matrix to Solve a Sudoku Problem 
+
+THE LINK TO VERSION 1 CAN BE FOUND BELOW 
+https://github.com/nickng2912/Matrix-Calculator-v1
